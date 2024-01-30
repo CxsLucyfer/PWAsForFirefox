@@ -35,7 +35,7 @@
     "base64-js": "^1.5.1",
     "bootstrap": "~5.1.3",
     "bootstrap-dark-5": "^1.1.3",
-    "bootstrap-icons": "^1.10.3",
+    "bootstrap-icons": "^1.11.3",
     "bootstrap5-tags": "^1.5.1",
     "iframe-resizer": "^4.3.2",
     "semver": "^7.3.8"
