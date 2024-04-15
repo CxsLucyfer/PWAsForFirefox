@@ -25,7 +25,7 @@ ghp-import==2.1.0
     # via mkdocs
 htmlmin2==0.1.13
     # via mkdocs-minify-plugin
-idna==3.6
+idna==3.7
     # via requests
 jinja2==3.1.2
     # via
